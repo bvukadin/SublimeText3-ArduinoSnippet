@@ -2,7 +2,7 @@
 ---
 # http://www.sublimetext.com/docs/3/syntax.html
 name: Arduino
-comment: Arduino Syntac Highlight
+comment: Arduino Syntax Highlight
 file_extensions:
   - ino
   - pde
