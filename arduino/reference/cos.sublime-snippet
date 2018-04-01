@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+cos(${1:rad})
+]]></content>
+	<tabTrigger>cos</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino cos()</description>
+</snippet>

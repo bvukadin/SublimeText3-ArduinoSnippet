@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+isGraph(${1:thisChar})
+]]></content>
+	<tabTrigger>isGraph</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino isGraph()</description>
+</snippet>

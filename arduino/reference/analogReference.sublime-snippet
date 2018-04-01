@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+analogReference(${1:type})
+]]></content>
+	<tabTrigger>analogReference</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino analogReference()</description>
+</snippet>

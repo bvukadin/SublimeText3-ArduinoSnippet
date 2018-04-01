@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+isControl(${1:thisChar})
+]]></content>
+	<tabTrigger>isControl</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino isControl()</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+pinMode(${1:pin}, OUTPUT);
+]]></content>
+	<tabTrigger>output</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino pinMode() - output</description>
+</snippet>

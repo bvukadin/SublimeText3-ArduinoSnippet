@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/**
+
+    TODO:
+    - ${1:First todo item}
+    - ${2:Second todo item}
+
+ */
+]]></content>
+	<tabTrigger>todo</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino Todo</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+byte ${1:incoming} = shiftIn(${2:dataPin}, ${3:clockPin}, ${4:bitOrder});
+]]></content>
+	<tabTrigger>shiftIn</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino shiftIn()</description>
+</snippet>

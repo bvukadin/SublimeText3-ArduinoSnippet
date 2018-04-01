@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+sin(${1:rad})
+]]></content>
+	<tabTrigger>sin</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino sin()</description>
+</snippet>

@@ -1,0 +1,27 @@
+<snippet>
+	<content><![CDATA[
+/**
+
+    Title : ${1:Project Title}
+    Timestamp : ${2:yyyy-mm-dd H:i:s}
+    Author : ${3:Your Name}
+    Note : ${4:Project Note}
+
+ */
+
+$5
+
+void setup()
+{
+	
+}
+
+void loop()
+{
+	
+}
+]]></content>
+	<tabTrigger>template</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino Template</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+isDigit(${1:thisChar})
+]]></content>
+	<tabTrigger>isDigit</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino isDigit()</description>
+</snippet>

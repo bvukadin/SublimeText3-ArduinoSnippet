@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+unsigned long ${1:timeMillis} = millis();
+]]></content>
+	<tabTrigger>timeMillis</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino time - millis</description>
+</snippet>

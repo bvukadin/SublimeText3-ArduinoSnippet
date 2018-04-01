@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+tan(${1:rad})
+]]></content>
+	<tabTrigger>tan</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino tan()</description>
+</snippet>

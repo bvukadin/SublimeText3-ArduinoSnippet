@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+pulseInLong(${1:pin}, ${2:value})
+]]></content>
+	<tabTrigger>pulseInLong</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino pulseInLong()</description>
+</snippet>
